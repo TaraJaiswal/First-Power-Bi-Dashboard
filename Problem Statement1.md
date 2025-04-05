@@ -1,6 +1,6 @@
 # First-Power-Bi-Dashboard
-This is a HR Data based power BI dashboard
-I made it toward one of the certification
+This is a HR Data based Power BI dashboard
+
 Scenario
 The HR (Human Resource) department is the heart of every organisation.
 From recruitment to compensation to performance appraisal and employee wellbeing, the HR department plays several roles in the enterprise.
